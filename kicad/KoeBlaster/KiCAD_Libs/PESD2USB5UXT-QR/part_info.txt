@@ -1,0 +1,9 @@
+Manufacturer=Nexperia
+PartNumber=PESD2USB5UXT-QR
+PartCategory=Diode ESD (Bi-directional)
+PackageCategory=SOT23 (3-Pin)
+PinCount=3
+Version=2.1
+Released=2024-03-14 04:42:15
+Downloaded=2024-06-09 10:41:27
+3D=Y

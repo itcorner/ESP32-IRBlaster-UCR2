@@ -4,4 +4,7 @@
   (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Libs/SamacSys_Parts.kicad_sym")(options "")(descr ""))
   (lib (name "B3U-3000P-B")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Libs/B3U-3000P-B/KiCad/B3U-3000P-B.kicad_sym")(options "")(descr ""))
   (lib (name "SJ2-25103A-SMT-TR")(type "Legacy")(uri "${KIPRJMOD}/KiCAD_Libs/SJ2-25103A-SMT-TR/SJ2-25103A-SMT-TR.lib")(options "")(descr ""))
+  (lib (name "SFH_4244-QR-Z")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Libs/SFH_4244_QR_Z/SFH_4244-QR-Z.kicad_sym")(options "")(descr ""))
+  (lib (name "PESD2USB5UXT-QR")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Libs/PESD2USB5UXT-QR/KiCad/PESD2USB5UXT-QR.kicad_sym")(options "")(descr ""))
+  (lib (name "PJ-2180-SMT")(type "KiCad")(uri "${KIPRJMOD}/PJ-2180-SMT/PJ-2180-SMT.kicad_sym")(options "")(descr ""))
 )

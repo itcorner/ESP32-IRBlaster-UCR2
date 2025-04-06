@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SFH_4243-Q1R2
+D SFH 4243-Q1R2 Osram Opto, TOPLED 950nm IR LED, PLCC 2 SMD package package
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS41/DSANUWW0036889.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -4,4 +4,5 @@
   (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Libs/SamacSys_Parts.pretty")(options "")(descr ""))
   (lib (name "KiCad")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Libs/B3U-3000P-B/KiCad")(options "")(descr ""))
   (lib (name "SJ2-25103A-SMT-TR")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Libs/SJ2-25103A-SMT-TR")(options "")(descr ""))
+  (lib (name "SFH_4243-Q1R2")(type "KiCad")(uri "${KIPRJMOD}/KiCAD_Libs/SFH_4243-Q1R2")(options "")(descr ""))
 )

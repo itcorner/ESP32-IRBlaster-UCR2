@@ -1,0 +1,218 @@
+(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
+  (symbol "SJ2-25103A-SMT-TR" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+    (property "Reference" "J3" (at 0.2921 12.7 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SJ2-25103A-SMT-TR" (at 0.2921 10.16 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Footprint" "SJ2-25103A-SMT-TR:CUI_SJ2-25103A-SMT-TR" (at -15.24 -11.43 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "Datasheet" "" (at 0 0 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "PARTREV" "1.01" (at -15.24 -16.51 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "STANDARD" "Manufacturer Recommendation" (at -15.24 -13.97 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "MANUFACTURER" "CUI Inc." (at -7.62 -16.51 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+    )
+    (property "ki_locked" "" (at 0 0 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (symbol "SJ2-25103A-SMT-TR_0_0"
+      (polyline
+        (pts
+          (xy -7.62 -7.62)
+          (xy 7.62 -7.62)
+        )
+        (stroke (width 0.254) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -7.62 7.62)
+          (xy -7.62 -7.62)
+        )
+        (stroke (width 0.254) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -4.9022 -1.397)
+          (xy -4.9022 2.921)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -4.9022 2.921)
+          (xy -3.9878 2.921)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.9878 2.921)
+          (xy -3.0988 2.921)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.9878 5.08)
+          (xy -3.9878 2.921)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.0988 -1.397)
+          (xy -4.9022 -1.397)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -3.0988 2.921)
+          (xy -3.0988 -1.397)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 -1.27)
+          (xy -0.9398 0)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.9652 0)
+          (xy 0 -1.27)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 2.54 -3.81)
+          (xy 1.6002 -5.08)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 3.5052 -5.08)
+          (xy 2.54 -3.81)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -7.62)
+          (xy 7.62 2.54)
+        )
+        (stroke (width 0.254) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 -5.08)
+          (xy 3.5052 -5.08)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 2.54)
+          (xy 7.62 5.08)
+        )
+        (stroke (width 0.254) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 5.08)
+          (xy -3.9878 5.08)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 5.08)
+          (xy 7.62 7.62)
+        )
+        (stroke (width 0.254) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.62 7.62)
+          (xy -7.62 7.62)
+        )
+        (stroke (width 0.254) (type solid))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 7.9502 0)
+          (xy 0.9652 0)
+        )
+        (stroke (width 0.1524) (type solid))
+        (fill (type none))
+      )
+      (pin passive line (at 12.7 5.08 180) (length 5.08)
+        (name "~" (effects (font (size 1.016 1.016))))
+        (number "1" (effects (font (size 1.016 1.016))))
+      )
+      (pin passive line (at 12.7 2.54 180) (length 5.08)
+        (name "~" (effects (font (size 1.016 1.016))))
+        (number "1.1" (effects (font (size 1.016 1.016))))
+      )
+      (pin passive line (at 12.7 -5.08 180) (length 5.08)
+        (name "~" (effects (font (size 1.016 1.016))))
+        (number "2" (effects (font (size 1.016 1.016))))
+      )
+      (pin passive line (at 12.7 0 180) (length 5.08)
+        (name "~" (effects (font (size 1.016 1.016))))
+        (number "3" (effects (font (size 1.016 1.016))))
+      )
+    )
+    (symbol "SJ2-25103A-SMT-TR_1_1"
+      (polyline
+        (pts
+          (xy 7.62 2.54)
+          (xy 6.35 2.54)
+          (xy 6.35 5.08)
+        )
+        (stroke (width 0) (type default))
+        (fill (type none))
+      )
+      (text "Ring" (at 3.81 1.27 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (text "Sleeve" (at 3.81 6.35 0)
+        (effects (font (size 1.27 1.27)))
+      )
+      (text "Tip" (at 5.08 -3.81 0)
+        (effects (font (size 1.27 1.27)))
+      )
+    )
+  )
+)

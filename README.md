@@ -7,6 +7,8 @@ This allows the installation of an IR blaster in an independant location from wh
 remote and charging dock are located. For example, in an equipment rack or cupboard, or for
 multi-room setups.
 
+⚠️ Since Unfolded Circle has released their dock firmware I have not yet updated the software in this repo for Hardware v0.3. Use koeblaster brach in [this repo](https://github.com/itcorner/ucd2-firmware/tree/koeblaster) in the meanwhile.
+
 
 ## Requirements
 
@@ -89,26 +91,27 @@ PCB is manufactured and working.
 
 | Revision | Changes | Known-Issues | 
 |:-------|:------------|:------------|
+| 0.3 | Supporting SMD or THT leds, split top and side led control, optimized BOM for JLCPCB manufacturing | none (yet) |
 | 0.2 | fixes of hw problems from v0.1 | none (yet) |
 | 0.1 | initial design | value of current limitation resistors for IR leds too high.<br/>short-circuits on external blaster sockets.<br/>CH340 outputs voltages higher than 3.3V, therefore problems with hardware reset circuit. |
 
 ### Schematic
 
-![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/schematic_v0.2.png?raw=true)
+![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/v0.3/schematic_v0.3.pdf?raw=true)
 
 ### Board
 
 #### Top
 
-![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/KoeBlaster-brd_top_elements.svg?raw=true)
+![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/v0.3/KoeBlaster-F_Fab.svg?raw=true)
 
-![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/KoeBlaster-brd_top.svg?raw=true)
+![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/v0.3/KoeBlaster-F_Cu.svg?raw=true)
 
 #### Bottom
 
-![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/KoeBlaster-brd_bottom_elements.svg?raw=true)
+![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/v0.3/KoeBlaster-B_Fab.svg?raw=true)
 
-![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/KoeBlaster-brd_bottom.svg?raw=true)
+![Serving suggestion](https://github.com/itcorner/ESP32-IRBlaster-UCR2/blob/main/kicad/KoeBlaster/exports/v0.3/KoeBlaster-B_Cu.svg?raw=true)
 
 
 
